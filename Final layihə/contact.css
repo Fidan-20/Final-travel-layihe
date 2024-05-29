@@ -1,0 +1,54 @@
+.contact {
+    font-weight: 700;
+    color: #fff; 
+    font-size: 30px;
+    text-align: center ;
+    margin: 250px ;
+    font-size: 70px;
+     font-family:   "Abril Fatface", cursive;
+  } 
+   .contact-information{
+      display: flex;
+     gap: 60px;
+      align-items:center ;
+      color: #666;
+      padding-top: 30px;
+   }
+   .contact-information p{
+    color: #6c757d;
+    font-size: 20px;
+   }
+   .container{
+    margin:100px;
+   }
+  button{
+      background-color:#f9be37 ;
+      color: #fff;
+      border: 1px solid #f9be37;
+      padding: 20px 50px ;
+      border-radius:  30px ;
+      margin-top: 15px;
+      font-size: 15px;
+      font-weight: 600;
+  } 
+ 
+  h3{
+      font-weight: 600;
+      font-size: 30px;
+  }
+   #contactForm{
+    margin-left: 200px;
+    margin-bottom: 50px;
+    
+   }
+   textarea{
+    color: #6c757d;
+    font-size: 20px;
+    padding:20px;
+   }
+   #contactForm input{
+   padding: 20px;
+   color: #6c757d;
+   font-size: 20px;
+
+   }

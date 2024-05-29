@@ -1,0 +1,52 @@
+
+[
+    {
+        "image": "https://preview.colorlib.com/theme/adventure2/images/destination-3.jpg.webp",
+        "title": "Paris Italy",
+        "price": "$200",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "duration": "2 days 3 nights",
+        "location": "San Francisco, CA"
+    },
+    {
+        "image": "https://preview.colorlib.com/theme/adventure2/images/destination-2.jpg.webp",
+        "title": "Paris Italy",
+        "price": "$200",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "duration": "2 days 3 nights",
+        "location": "San Francisco, CA"
+    },
+    {
+        "image": "https://preview.colorlib.com/theme/adventure2/images/destination-4.jpg.webp",
+        "title": "Paris Italy",
+        "price": "$200",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "duration": "2 days 3 nights",
+        "location": "San Francisco, CA"
+    },
+    {
+        "image": "https://preview.colorlib.com/theme/adventure2/images/destination-5.jpg.webp",
+        "title": "Paris Italy",
+        "price": "$200",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "duration": "2 days 3 nights",
+        "location": "San Francisco, CA"
+    },
+    {
+        "image": "https://preview.colorlib.com/theme/adventure2/images/destination-6.jpg.webp",
+        "title": "Paris Italy",
+        "price": "$200",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "duration": "2 days 3 nights",
+        "location": "San Francisco, CA"
+    },
+    {
+        "image": "https://preview.colorlib.com/theme/adventure2/images/destination-1.jpg",
+        "title": "Paris Italy",
+        "price": "$200",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "duration": "2 days 3 nights",
+        "location": "San Francisco, CA"
+    }
+]
+  

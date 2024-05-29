@@ -1,0 +1,50 @@
+[
+    {
+        "image": "https://preview.colorlib.com/theme/adventure2/images/hotel-1.jpg.webp",
+        "title": "New Orleans, LA",
+        "price": "$70 night",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "duration": "2 days 3 nights",
+        "location": "San Francisco, CA"
+    },
+    {
+        "image": "https://preview.colorlib.com/theme/adventure2/images/hotel-4.jpg.webp",
+        "title": "london",
+        "price": "$40 night",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "duration": "2 days 3 nights",
+        "location": "San Francisco, CA"
+    },
+    {
+        "image": "https://preview.colorlib.com/theme/adventure2/images/hotel-5.jpg.webp",
+        "title": "Paris ",
+        "price": "$80 night",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "duration": "2 days 3 nights",
+        "location": "San Francisco, CA"
+    },
+    {
+        "image": "https://preview.colorlib.com/theme/adventure2/images/hotel-2.jpg.webp",
+        "title": "Italy",
+        "price": "$50 night",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "duration": "2 days 3 nights",
+        "location": "San Francisco, CA"
+    },
+    {
+        "image": "https://preview.colorlib.com/theme/adventure2/images/hotel-5.jpg",
+        "title": "Paris Italy",
+        "price": "$47 night",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "duration": "2 days 3 nights",
+        "location": "San Francisco, CA"
+    },
+    {
+        "image": "https://preview.colorlib.com/theme/adventure2/images/hotel-3.jpg.webp",
+        "title": "San Francisco",
+        "price": "$39 night",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "duration": "2 days 3 nights",
+        "location": "San Francisco, CA"
+    }
+]

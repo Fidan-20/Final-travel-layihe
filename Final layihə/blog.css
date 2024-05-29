@@ -1,0 +1,53 @@
+.tips-article{
+    font-weight: 700;
+    color: #fff; 
+    font-size: 30px;
+    text-align: center ;
+    margin: 250px ;
+    font-size: 70px;
+     font-family:   "Abril Fatface", cursive;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 100px;
+    
+  
+} 
+
+.row {
+    display: flex;
+    gap: 10px;
+} 
+a , h3 {
+    color:black;
+     text-decoration: none;
+     width: 70%;
+     font-size: 15px;
+}
+.picture img {
+    
+    object-fit: cover; 
+    width: 70%;
+    height: 50%;
+
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+
+
+
+
+
+
+
+
+

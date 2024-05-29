@@ -1,0 +1,37 @@
+{
+    "hotels": [
+        {
+            "imageUrl": "https://preview.colorlib.com/theme/adventure2/images/hotel-1.jpg",
+            "location": "New Orleans, Hotel",
+            "price": "$40",
+            "description": "Far far away, behind the word mountains, far from the countries",
+            "city": "Miami, Fl",
+            "bookLink": "#"
+        },
+        {
+            "imageUrl": "https://preview.colorlib.com/theme/adventure2/images/hotel-2.jpg.webp",
+            "location": "New Orleans, Hotel",
+            "price": "$40",
+            "description": "Far far away, behind the word mountains, far from the countries",
+            "city": "Miami, Fl",
+            "bookLink": "#"
+        },
+        {
+            "imageUrl": "https://preview.colorlib.com/theme/adventure2/images/hotel-5.jpg.webp",
+            "location": "New Orleans, Hotel",
+            "price": "$40",
+            "description": "Far far away, behind the word mountains, far from the countries",
+            "city": "Miami, Fl",
+            "bookLink": "#"
+        },
+        {
+            "imageUrl": "https://preview.colorlib.com/theme/adventure2/images/hotel-3.jpg.webp",
+            "location": "New Orleans, Hotel",
+            "price": "$40",
+            "description": "Far far away, behind the word mountains, far from the countries",
+            "city": "Miami, Fl",
+            "bookLink": "#"
+        }
+    ]
+    
+}

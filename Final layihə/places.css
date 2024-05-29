@@ -1,0 +1,179 @@
+.destination {
+    font-weight: 700;
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    margin: 250px;
+    font-size: 70px;
+    font-family: "Abril Fatface", cursive;
+}
+
+.cities {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin:  100px;
+     
+}
+
+.cities div {
+    width: calc(33.333% - 30px);
+    box-sizing: border-box;
+}
+
+.cities img {
+    /* height: 200px;
+    width:  auto; */
+    width: 80%;
+    height: 50%;
+}
+
+.cities p {
+    font-size: 18px;
+    width: 80%;
+}
+
+button {
+    background-color: #08c299;
+    padding: 3px 10px;
+    color: #fff;
+    border-radius: 4px;
+}
+    
+
+.star {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #ccc;
+    background-color: transparent;
+    font-size: 14px; 
+    line-height: 20px; 
+}
+
+.filled {
+    background-color: yellow;
+}
+
+.fas.fa-star {
+    color: yellow;
+}
+
+
+.far.fa-star {
+    color: yellow;
+}
+
+
+.rating i:last-child {
+    color: silver; 
+}
+
+
+.hotel .rating .far {
+    color: silver;
+}
+
+button {
+    background-color: #08c299;
+    padding: 10px 20px;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+button a {
+    color: #fff;
+    text-decoration: none;
+}
+
+button:hover {
+    background-color: yellow;
+}
+.data{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+     */
+     /* margin: 50px ; */
+     padding-top:10px ;
+}
+
+.form-group1 {
+    margin-bottom: 15px;
+}
+ .label {
+    display: block;
+    margin-bottom: 5px;
+}
+.form-group1  input[type="text"], select, input[type="date"] {
+    width: 100%;
+    padding: 8px;
+    margin: 4px 0 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.submit button {
+    width: 100%;
+    background-color: yellow;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.submit button:hover {
+    background-color:#ffcc00; }
+
+    .form-check {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .rate {
+        display: flex;
+        align-items: center;
+    }
+    .rate .fa-star {
+        color: #ffcc00;
+    }
+    .rate1 .fa-star {
+        color:  #ffcc00;
+    }
+    .rate2 .fa-star {
+        color:  #ffcc00;
+    }
+    .rate2 .fa-star:last-child {
+       
+        border:gray;
+    }
+    .rate3 .fa-star {
+        color:  #ffcc00;;
+    }
+    .rate3 .fa-star:nth-last-child(-n+2) {
+        color: gray;
+    }
+    .rate4 .fa-star {
+        color: #ffcc00;
+    }
+    .rate4 .fa-star:nth-last-child(-n+3) {
+        color: gray;
+    }
+    .rate5 .fa-star {
+        color:  #ffcc00;
+    }
+    .rate5 .fa-star:nth-last-child(-n+4) {
+        color: gray;
+    
+    }
+    .form-star{
+        display: flex;
+        margin: 100px;
+        gap: 200px;
+    }
